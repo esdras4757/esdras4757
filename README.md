@@ -3,7 +3,7 @@
 </p>
 
 <p width="250" align="center">
- <h2>Esdras Uriel Lara Acosta</h2>
+ Esdras Uriel Lara Acosta <br/>
  <a href="https://portafolio-uriellara.netlify.app/">
 :technologist: visita mi portafolio
 </a>
