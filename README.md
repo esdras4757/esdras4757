@@ -17,10 +17,10 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 ## Habilidades
 
 ###Front-end:
--HTML5
--CSS3
--JavaScript
--TypeScript
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
 -React
 -Vue.js
 -CSS
