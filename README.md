@@ -5,7 +5,7 @@
 <p width="250" align="center">
  Esdras Uriel Lara Acosta <br/>
  <a href="https://portafolio-uriellara.netlify.app/">
-:technologist: visita mi portafolio
+:technologist: portafolio
 </a>
 
 </p>
