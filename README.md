@@ -2,6 +2,10 @@
   <img src="profilePicture.png" alt="Mi Foto">
 </p>
 
+<a href="https://portafolio-uriellara.netlify.app/">
+:technologist: visita mi portafolio
+</a>
+
 # Hola 👋
 
 Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Aquí hay un resumen de mi experiencia laboral y habilidades:
