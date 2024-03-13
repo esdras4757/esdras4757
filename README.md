@@ -1,4 +1,4 @@
-![Mi Foto](profilePicture.jpg)
+![Mi Foto](profilePicture.png)
 
 
 # Hola 👋
