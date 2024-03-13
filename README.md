@@ -20,6 +20,10 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 
 Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Mis habilidades incluyen:
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
+
 **Front-end:**
 - HTML5
 - CSS3
@@ -39,6 +43,10 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 - NPM
 - Node.js 
 
+</div>
+
+<div style="width: 45%;">
+
 **Back-end:**
 - SQL
 - NoSQL
@@ -47,3 +55,7 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 - Express.js
 - JWT (JSON Web Tokens)
 - Postman
+
+</div>
+
+</div>
