@@ -1,4 +1,4 @@
-<p align="center">
+<p width="300px" align="center">
   <img src="profilePicture.png" alt="Mi Foto">
 </p>
 
