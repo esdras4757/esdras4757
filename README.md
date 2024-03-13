@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hola 👋
 
 Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Aquí hay un resumen de mi experiencia laboral y habilidades:
