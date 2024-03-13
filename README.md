@@ -1,5 +1,6 @@
-![Mi Foto](profilePicture.png)
-
+<p align="center">
+  <img src="profilePicture.png" alt="Mi Foto">
+</p>
 
 # Hola 👋
 
