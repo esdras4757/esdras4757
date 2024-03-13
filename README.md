@@ -18,10 +18,9 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 
 ## Habilidades
 
-<table>
-  <tr>
-    <td valign="top"><h3>Front-end</h3>
+Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Mis habilidades incluyen:
 
+**Front-end:**
 - HTML5
 - CSS3
 - JavaScript
@@ -39,9 +38,8 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 - Git
 - NPM
 - Node.js 
-    </td>
-    <td valign="top"><h3>Back-end</h3>
-    
+
+**Back-end:**
 - SQL
 - NoSQL
 - MongoDB
@@ -49,7 +47,3 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 - Express.js
 - JWT (JSON Web Tokens)
 - Postman
-
-    </td>
-  </tr>
-</table>
