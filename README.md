@@ -1,4 +1,4 @@
-![Mi Foto](gs://siriushrm-3e7a6.appspot.com/profile/116710653_2681581778836870_4847727655243204412_n.jpg)
+![Mi Foto](profilePicture.jpg)
 
 
 # Hola 👋
