@@ -15,11 +15,31 @@
 Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Aquí hay un resumen de mis habilidades:
 
 ## Habilidades
-- React.js
-- Vue.js
-- React Native
-- CSS, Bootstrap, MaterialUI, Ant Design
-- Consumo y validación de APIs con Fetch, Axios, Postman
-- Control de versiones con Git y Sourcetree
-- Trabajo en marcos ágiles y metodologías Scrum
-- Integración de inteligencia artificial en proyectos
+
+Front-end:
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Vue.js
+CSS
+Sass
+AntD (Ant Design)
+Material-UI
+Redux
+StyledComponents
+Bootstrap
+React Native
+Git
+NPM
+Node.js 
+
+Back-end:
+SQL
+NoSQL
+MongoDB
+SQLServer
+Express.js
+JWT (JSON Web Tokens)
+Postman
