@@ -2,9 +2,13 @@
   <img src="profilePicture.png" alt="Mi Foto">
 </p>
 
-<a href="https://portafolio-uriellara.netlify.app/">
+<p width="250" align="center">
+  Esdras Lara
+ <a href="https://portafolio-uriellara.netlify.app/">
 :technologist: visita mi portafolio
 </a>
+
+</p>
 
 # Hola 👋
 
