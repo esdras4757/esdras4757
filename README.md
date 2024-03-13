@@ -16,30 +16,30 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 
 ## Habilidades
 
-###Front-end:
+### Front-end:
 - HTML5
 - CSS3
 - JavaScript
 - TypeScript
--React
--Vue.js
--CSS
--Sass
--AntD (Ant Design)
--Material-UI
--Redux
--StyledComponents
--Bootstrap
--React Native
--Git
--NPM
--Node.js 
+- React
+- Vue.js
+- CSS
+- Sass
+- AntD (Ant Design)
+- Material-UI
+- Redux
+- StyledComponents
+- Bootstrap
+- React Native
+- Git
+- NPM
+- Node.js 
 
-###Back-end:
--SQL
--NoSQL
--MongoDB
--SQLServer
--Express.js
--JWT (JSON Web Tokens)
--Postman
+### Back-end:
+- SQL
+- NoSQL
+- MongoDB
+- SQLServer
+- Express.js
+- JWT (JSON Web Tokens)
+- Postman
