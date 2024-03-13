@@ -1,3 +1,8 @@
+![Texto alternativo](URL_de_la_imagen)
+
+![Mi Foto](mi_foto.jpg)
+
+
 # Hola 👋
 
 Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Aquí hay un resumen de mi experiencia laboral y habilidades:
