@@ -39,10 +39,9 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 - Git
 - NPM
 - Node.js 
-
     </td>
     <td valign="top"><h3>Back-end</h3>
-
+    
 - SQL
 - NoSQL
 - MongoDB
