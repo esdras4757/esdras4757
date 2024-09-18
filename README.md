@@ -16,8 +16,6 @@ Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos d
 
 ## Habilidades
 
-Soy un ingeniero de frontend con experiencia en diversas tecnologías y marcos de trabajo. Mis habilidades incluyen:
-
 <div style="display: flex; justify-content: space-between;">
 
 <div style="width: 45%;">
